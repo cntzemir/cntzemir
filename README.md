@@ -12,7 +12,7 @@ I build practical web projects and improve my software engineering skills every 
 - **Portfolio** – personal website and project showcase  
 - **javascript-exchange** – JavaScript-based exchange logic practice  
 - **javascript-calculator** – calculator practice project  
-- **E-bike** – responsive frontend practice
+- **e-bike-rental-demo** – responsive frontend practice
 
 > I will keep adding structured school tasks and project-based work here.
 
