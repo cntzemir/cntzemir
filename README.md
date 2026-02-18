@@ -10,7 +10,7 @@ I build practical web projects and improve my software engineering skills every 
 
 ## Featured Work
 - **Portfolio** – personal website and project showcase  
-- **Exchange** – JavaScript-based exchange logic practice  
+- **javascript-exchange** – JavaScript-based exchange logic practice  
 - **javascript-calculator** – calculator practice project  
 - **E-bike** – responsive frontend practice
 
