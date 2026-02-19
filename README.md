@@ -24,5 +24,5 @@ I document selected university programming tasks in a clean, reproducible format
 - what I learned
 
 ## Contact
-- Portfolio: https://cntzemirr.netlify.app/
+- Portfolio: https://cntzemir.github.io/
 - LinkedIn: https://www.linkedin.com/in/emircntz
