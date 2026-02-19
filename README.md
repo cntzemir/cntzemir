@@ -9,7 +9,7 @@ I build practical web projects and improve my software engineering skills every 
 - 🤝 Open to: **Erasmus collaboration and project teamwork**
 
 ## Featured Work
-- **Portfolio** – personal website and project showcase  
+- **cntzemir.github.io** – personal website and project showcase  
 - **javascript-exchange** – JavaScript-based exchange logic practice  
 - **javascript-calculator** – calculator practice project  
 - **e-bike-rental-demo** – responsive frontend practice
