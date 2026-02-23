@@ -1,4 +1,4 @@
-# Hi, I'm Emir Cantez 👋
+# Hi, I'm Emir Canıtez 👋
 
 Computer Science student at **Eötvös Loránd University (ELTE), Budapest**.  
 I build **internship-ready** web projects and focus on **clean architecture, reliability, and documentation**.
