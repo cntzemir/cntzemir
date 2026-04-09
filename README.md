@@ -1,45 +1,34 @@
-# Hi, I'm Emir Canıtez
+# Hi, I'm Emir Canitez
 
 Computer Science student in Budapest transitioning from practical web development to cybersecurity through secure systems, defensive design, and technical documentation.
 
-## What I focus on
-- secure authentication and authorization
-- role-based access control
-- audit logging and traceability
+## Focus Areas
+- secure software design
+- authentication and access control
 - validation and predictable system behavior
-- clean project structure and reviewable documentation
+- audit logging and traceability
+- Linux-based security learning
+- clean project structure and technical documentation
 
-## Current direction
-I started with practical web development projects and gradually became more interested in how systems handle authentication, access control, validation, logging, and misuse prevention.
-
-My current portfolio reflects that transition: from UI and flow-focused projects to more security-aware software demos with documented engineering decisions.
-
-## Featured projects
+## Featured Repositories
 
 ### Secure Auth & Admin Panel Demo
-Security-focused web application demo built with Node.js, Express, and EJS.  
-Demonstrates session-based authentication, RBAC, CSRF protection, rate limiting, account lockout, audit logging, and admin-side review visibility.
+Security-focused authentication demo built with Node.js, Express, and EJS.  
+Focused on session-based auth, RBAC, CSRF protection, rate limiting, temporary lockout, and audit logging.
 
 ### ValerPay
-Workflow-oriented full-stack payment demo focused on ledger-based balances, role separation, admin approvals, traceability, and audit-friendly state transitions.
+A workflow-oriented full-stack demo built around ledger-based balances, admin review, role separation, and auditable state transitions.
 
 ### JavaScript Exchange
-A smaller but disciplined project focused on validation, predictable behavior, state clarity, and refactoring from early prototypes into a cleaner implementation.
+A smaller project showing validation, predictable behavior, state clarity, and refactoring discipline.
 
-## Engineering habits
-- I prefer fewer projects with stronger engineering signals
-- I document architecture, decisions, and limitations
-- I try to make projects easy to review quickly
-- I care about predictable behavior, not only visuals
-- I treat validation and defensive handling as core parts of implementation
-
-## Current learning focus
-- secure software design
-- Linux and system-level hardening
-- authentication and abuse prevention patterns
-- logging, monitoring, and defensive engineering workflows
+## Engineering Habits
+- fewer projects with stronger engineering signals
+- documentation-first thinking
+- predictable behavior over flashy complexity
+- security-minded validation and reviewability
 
 ## Contact
-- GitHub: [github.com/cntzemir](https://github.com/cntzemir)
-- Portfolio: [cntzemir.github.io](https://cntzemir.github.io)
+- Portfolio: https://cntzemir.github.io/
+- GitHub: https://github.com/cntzemir
 - Email: emirrcanitez@icloud.com
