@@ -1,54 +1,40 @@
-# Hi, I'm Emir Canıtez 👋
+# Hi, I'm Emir Canitez
 
-Computer Science student at **Eötvös Loránd University (ELTE), Budapest**.  
-I build **internship-ready** web projects and focus on **clean architecture, reliability, and documentation**.
+I am a Computer Science student in Budapest with a practical foundation in web development, currently transitioning toward cybersecurity.
 
-- 💻 Main stack: **TypeScript/JavaScript, React/Next.js, NestJS, Prisma**
-- 🧠 Strengths: **system thinking, clean code, refactoring, reproducible setups**
-- 🎯 Target roles: **Frontend / Full-stack Intern (Web)**
-- 🤝 Open to: **Erasmus collaboration, internship projects, team development**
+My interest in cybersecurity grew from building software and becoming more focused on how systems should behave securely, not just how they should work functionally. I became increasingly interested in authentication, input validation, role separation, logging, system reliability, and clear technical documentation.
 
----
+## Current Focus
+- Secure software design
+- Authentication and access control
+- Input validation and predictable system behavior
+- Logging and suspicious activity analysis
+- Linux-based security learning
+- Clean structure and technical documentation
 
-## Flagship project
-### **ValerPay** — Ledger-based payment workflow (Full-stack)
-A demo payment platform modeling a real workflow: users create **deposit/withdraw** requests, admins **review/approve/complete** them, and balances are derived from an **append-only ledger** (DEBIT/CREDIT).
+## Current Projects
+### Secure Auth & Admin Panel Demo
+A hands-on project focused on authentication, access control, role-based behavior, input validation, and admin-side actions.
 
-**What it proves**
-- Domain workflow + state transitions (requests lifecycle)
-- Role-based access (USER/ADMIN) with JWT
-- Back-office admin operations + audit logs + reporting
+### Log Analysis & Suspicious Activity Dashboard
+A project focused on log visibility, suspicious patterns, simple investigation workflows, and security-minded event analysis.
 
-➡️ Repo: `ValerPay` (pinned)  
-➡️ Docs: architecture + API reference + seeded demo setup
+### Linux Hardening Lab Journal
+A documented lab repository covering Linux basics, system hardening steps, configuration notes, and security-oriented learning practice.
 
----
+### Secure Notes / File Vault Mini App
+A small application focused on protected content workflows, access control, validation, and structured behavior.
 
-## Featured work
-- **cntzemir.github.io** — portfolio + project case studies  
-- **javascript-exchange** — validation + logic focused JS project  
-- **e-bike-rental-demo** — responsive UI practice with clean layout  
-- **javascript-calculator** — fundamentals + refactoring practice
+## Background
+My technical foundation comes from web development, where I built projects involving JavaScript, HTML, CSS, validation, application flow, and clean structure. I now use that foundation to move toward more security-oriented work.
 
-> I prefer fewer projects with stronger engineering signals: **docs, tests, CI, and clear demos**.
+## What I care about
+- Practical learning
+- Readable and maintainable code
+- Predictable system behavior
+- Clear documentation
+- Responsible system thinking
+- Steady improvement through real projects
 
----
-
-## Engineering habits (how I work)
-- **Document-first**: README + setup + screenshots + decisions
-- **Quality gates**: lint/build/test + CI
-- **Iterative improvement**: refactor logs, commit hygiene, measurable changes
-- **Reproducibility**: seed data + predictable local setup
-
----
-
-## Learning focus
-- Algorithms & problem solving (selected tasks documented)
-- Backend fundamentals (API design, DB modeling, auth)
-- Clean code & maintainability
-
----
-
-## Contact
-- Portfolio: https://cntzemir.github.io/
-- LinkedIn: https://www.linkedin.com/in/emircntz/
+## Direction
+This profile is being actively updated to reflect my transition from general web development toward cybersecurity-focused projects and secure systems thinking.
