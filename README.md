@@ -1,6 +1,15 @@
 # Hi, I'm Emir Canitez
 
-Computer Science student in Budapest transitioning from practical web development to cybersecurity through secure systems, defensive design, and technical documentation.
+Computer Science student in Budapest transitioning from practical software development into cybersecurity.
+
+My current focus is building secure, reviewable projects that emphasize authentication, authorization, auditability, predictable system behavior, and defensive documentation.
+
+##  I’m especially interested in:
+- secure authentication and access control
+- audit logging and traceable workflows
+- validation and predictable system behavior
+- Linux hardening and defensive system configuration
+- clean project structure and technical documentation
 
 ## Focus Areas
 - secure software design
