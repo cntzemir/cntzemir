@@ -1,38 +1,56 @@
 # Hi, I'm Emir Canitez
 
-Computer Science student in Budapest transitioning from practical software development into cybersecurity.
-
-I build reviewable projects that focus on secure authentication, authorization, auditability, predictable system behavior, and defensive documentation. My goal is to grow from a software foundation into cybersecurity through hands-on, well-documented projects.
+Computer Science student in Budapest building a cybersecurity-oriented portfolio through secure software design, auditability, Linux hardening, and reviewable technical documentation.
 
 ## Current Direction
 
-- secure authentication and access control
-- audit logging and traceable workflows
+- secure software design
+- authentication and access control
+- audit logging and traceability
+- Linux hardening and defensive configuration
 - validation and predictable system behavior
-- Linux hardening and defensive system configuration
-- clean project structure and technical documentation
-  
+- technical documentation for reviewers
+
 ## Portfolio Overview
 
-This project is a security-focused authentication and admin panel demo built to show how a small web application can be designed with defensive decisions from the start.
+My recent work focuses on building smaller but more deliberate projects that show how systems can be designed with security-aware decisions from the start.
 
-Instead of focusing only on login and registration screens, the project emphasizes backend-enforced authorization, audit visibility, abuse reduction, defensive validation, and reviewable system behavior.
+Rather than only building general web applications, I aim to demonstrate:
 
-It is positioned as a defensive software engineering demo rather than a production SaaS product.
+- backend-enforced authorization
+- auditable workflows and visible system behavior
+- defensive validation and safer request handling
+- role separation and controlled state changes
+- practical Linux hardening and verification
 
 ## Featured Repositories
 
 ### [Secure Auth & Admin Panel Demo](https://github.com/cntzemir/secure-auth-admin-demo)
-Security-focused authentication and admin panel demo built to show backend-enforced authorization, audit visibility, CSRF protection, rate limiting, temporary account lockout, and defensive error handling.
+Security-focused authentication and admin panel project showing session-based auth, RBAC, CSRF protection, rate limiting, lockout logic, and audit visibility.
 
 ### [ValerPay](https://github.com/cntzemir/ValerPay)
-Workflow-oriented payment demo centered on ledger-based balances, role separation, approval flow, and audit-friendly state transitions. Built to emphasize integrity, reviewability, and predictable business logic.
+Workflow-integrity demo built around ledger-based balances, admin review, role separation, and auditable request state transitions.
 
 ### [Linux Hardening Lab](https://github.com/cntzemir/linux-hardening-lab)
-Defensive Linux hardening lab documenting secure baseline configuration, SSH hardening, firewall policy, verification steps, tradeoffs, and recovery notes on Ubuntu Server.
+Defensive Ubuntu Server hardening lab documenting baseline review, SSH hardening, firewall controls, verification steps, tradeoffs, and recovery notes.
+
+### [JavaScript Exchange](https://github.com/cntzemir/javascript-exchange)
+A smaller validation-focused project showing predictable state handling, clearer structure, and refactoring discipline.
+
+## What I Emphasize
+
+- security-aware design, not only implementation
+- reviewable systems and clear technical documentation
+- traceability for important actions and decisions
+- practical controls with verification and tradeoff awareness
+
+## Supporting Projects
+
+I also keep a few smaller projects that reflect progression in structure, UI flow, and JavaScript fundamentals, but the strongest direction of my portfolio is now secure software, defensive thinking, and system integrity.
 
 ## Contact
 
 - Portfolio: https://cntzemir.github.io/
 - GitHub: https://github.com/cntzemir
 - Email: canitezemirr@gmail.com
+- LinkedIn: https://www.linkedin.com/in/emircntz
