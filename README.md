@@ -43,7 +43,7 @@ Defensive Ubuntu Server hardening lab documenting baseline review, SSH hardening
 
 ## Supporting Projects
 
-I also keep a few smaller projects that reflect progression in structure, UI flow, and JavaScript fundamentals, but the strongest direction of my portfolio is now secure software, defensive thinking, and system integrity.
+I keep a few smaller projects to show progression in structure, UI flow, and JavaScript fundamentals, but the strongest direction of my portfolio is now secure software, defensive thinking, and system integrity.
 
 ## Contact
 
