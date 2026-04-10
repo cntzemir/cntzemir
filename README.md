@@ -4,7 +4,7 @@ Computer Science student in Budapest transitioning from practical software devel
 
 I build reviewable projects that focus on secure authentication, authorization, auditability, predictable system behavior, and defensive documentation. My goal is to grow from a software foundation into cybersecurity through hands-on, well-documented projects.
 
-## Current Focus
+## Current Direction
 
 - secure authentication and access control
 - audit logging and traceable workflows
@@ -12,7 +12,7 @@ I build reviewable projects that focus on secure authentication, authorization, 
 - Linux hardening and defensive system configuration
 - clean project structure and technical documentation
   
-## Project overview
+## Portfolio Overview
 
 This project is a security-focused authentication and admin panel demo built to show how a small web application can be designed with defensive decisions from the start.
 
@@ -20,7 +20,7 @@ Instead of focusing only on login and registration screens, the project emphasiz
 
 It is positioned as a defensive software engineering demo rather than a production SaaS product.
 
-## Featured Projects
+## Featured Repositories
 
 ### [Secure Auth & Admin Panel Demo](https://github.com/cntzemir/secure-auth-admin-demo)
 Security-focused authentication and admin panel demo built to show backend-enforced authorization, audit visibility, CSRF protection, rate limiting, temporary account lockout, and defensive error handling.
@@ -31,7 +31,7 @@ Workflow-oriented payment demo centered on ledger-based balances, role separatio
 ### [Linux Hardening Lab](https://github.com/cntzemir/linux-hardening-lab)
 Defensive Linux hardening lab documenting secure baseline configuration, SSH hardening, firewall policy, verification steps, tradeoffs, and recovery notes on Ubuntu Server.
 
-## Why this project stands out
+## What I emphasize
 
 - It goes beyond a simple login/register CRUD flow
 - It demonstrates security reasoning, not only UI implementation
