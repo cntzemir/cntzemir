@@ -11,6 +11,14 @@ I build reviewable projects that focus on secure authentication, authorization, 
 - validation and predictable system behavior
 - Linux hardening and defensive system configuration
 - clean project structure and technical documentation
+- 
+## Project overview
+
+This project is a security-focused authentication and admin panel demo built to show how a small web application can be designed with defensive decisions from the start.
+
+Instead of focusing only on login and registration screens, the project emphasizes backend-enforced authorization, audit visibility, abuse reduction, defensive validation, and reviewable system behavior.
+
+It is positioned as a defensive software engineering demo rather than a production SaaS product.
 
 ## Featured Projects
 
@@ -22,6 +30,14 @@ Workflow-oriented payment demo centered on ledger-based balances, role separatio
 
 ### [Linux Hardening Lab](https://github.com/cntzemir/linux-hardening-lab)
 Defensive Linux hardening lab documenting secure baseline configuration, SSH hardening, firewall policy, verification steps, tradeoffs, and recovery notes on Ubuntu Server.
+
+## Why this project stands out
+
+- It goes beyond a simple login/register CRUD flow
+- It demonstrates security reasoning, not only UI implementation
+- It separates authentication and authorization clearly
+- It includes audit visibility into auth events, suspicious patterns, and locked accounts
+- It is documented like a project that was intentionally designed, not just coded quickly
 
 ## Engineering Habits
 
