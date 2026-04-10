@@ -34,9 +34,6 @@ Workflow-integrity demo built around ledger-based balances, admin review, role s
 ### [Linux Hardening Lab](https://github.com/cntzemir/linux-hardening-lab)
 Defensive Ubuntu Server hardening lab documenting baseline review, SSH hardening, firewall controls, verification steps, tradeoffs, and recovery notes.
 
-### [JavaScript Exchange](https://github.com/cntzemir/javascript-exchange)
-A smaller validation-focused project showing predictable state handling, clearer structure, and refactoring discipline.
-
 ## What I Emphasize
 
 - security-aware design, not only implementation
