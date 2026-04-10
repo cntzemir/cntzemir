@@ -11,7 +11,7 @@ I build reviewable projects that focus on secure authentication, authorization, 
 - validation and predictable system behavior
 - Linux hardening and defensive system configuration
 - clean project structure and technical documentation
-- 
+  
 ## Project overview
 
 This project is a security-focused authentication and admin panel demo built to show how a small web application can be designed with defensive decisions from the start.
