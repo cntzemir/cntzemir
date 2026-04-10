@@ -40,4 +40,4 @@ A smaller project showing validation, predictable behavior, state clarity, and r
 ## Contact
 - Portfolio: https://cntzemir.github.io/
 - GitHub: https://github.com/cntzemir
-- Email: emirrcanitez@icloud.com
+- Email: canitezemirr@gmail.com
