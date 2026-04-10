@@ -2,42 +2,58 @@
 
 Computer Science student in Budapest transitioning from practical software development into cybersecurity.
 
-My current focus is building secure, reviewable projects that emphasize authentication, authorization, auditability, predictable system behavior, and defensive documentation.
+I build reviewable projects that focus on secure authentication, authorization, auditability, predictable system behavior, and defensive documentation. My goal is to grow from a software foundation into cybersecurity through hands-on, well-documented projects.
 
-##  I’m especially interested in:
+## Current Focus
+
 - secure authentication and access control
 - audit logging and traceable workflows
 - validation and predictable system behavior
 - Linux hardening and defensive system configuration
 - clean project structure and technical documentation
 
-## Focus Areas
-- secure software design
-- authentication and access control
-- validation and predictable system behavior
-- audit logging and traceability
-- Linux-based security learning
-- clean project structure and technical documentation
+## Featured Projects
 
-## Featured Repositories
+### [Secure Auth & Admin Panel Demo](https://github.com/cntzemir/secure-auth-admin-demo)
+Security-focused authentication and admin panel demo built to show backend-enforced authorization, audit visibility, CSRF protection, rate limiting, temporary account lockout, and defensive error handling.
 
-### Secure Auth & Admin Panel Demo
-Security-focused authentication demo built with Node.js, Express, and EJS.  
-Focused on session-based auth, RBAC, CSRF protection, rate limiting, temporary lockout, and audit logging.
+### [ValerPay](https://github.com/cntzemir/ValerPay)
+Workflow-oriented payment demo centered on ledger-based balances, role separation, approval flow, and audit-friendly state transitions. Built to emphasize integrity, reviewability, and predictable business logic.
 
-### ValerPay
-A workflow-oriented full-stack demo built around ledger-based balances, admin review, role separation, and auditable state transitions.
-
-### JavaScript Exchange
-A smaller project showing validation, predictable behavior, state clarity, and refactoring discipline.
+### [Linux Hardening Lab](https://github.com/cntzemir/linux-hardening-lab)
+Defensive Linux hardening lab documenting secure baseline configuration, SSH hardening, firewall policy, verification steps, tradeoffs, and recovery notes on Ubuntu Server.
 
 ## Engineering Habits
-- fewer projects with stronger engineering signals
-- documentation-first thinking
+
+I prefer fewer projects with stronger engineering signals:
+
+- clear README files and technical documentation
+- deliberate project structure
 - predictable behavior over flashy complexity
-- security-minded validation and reviewability
+- validation and edge-case handling
+- reviewable demos with visible reasoning
+- security-minded decisions where relevant
+
+## Background
+
+My path into cybersecurity started from building software and gradually paying more attention to how systems should be protected, monitored, and kept predictable.
+
+That shift led me to focus more on:
+
+- authentication and authorization
+- audit logging and system visibility
+- defensive design decisions
+- hardening and verification
+- writing projects that are understandable to reviewers
+
+## Selected Supporting Projects
+
+- [JavaScript Exchange](https://github.com/cntzemir/javascript-exchange) — validation-focused currency conversion workflow with predictable state handling
+- [E-Bike Rental Demo](https://github.com/cntzemir/e-bike-rental-demo) — structured UI flow demo with clear repository organization
+- [Portfolio Website](https://github.com/cntzemir/cntzemir.github.io) — personal site presenting projects in a reviewer-friendly format
 
 ## Contact
+
 - Portfolio: https://cntzemir.github.io/
 - GitHub: https://github.com/cntzemir
 - Email: canitezemirr@gmail.com
