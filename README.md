@@ -1,27 +1,14 @@
 # Hi, I'm Emir Canitez
 
-Computer Science student in Budapest building a cybersecurity-oriented portfolio through secure software design, auditability, Linux hardening, and reviewable technical documentation.
+Computer Science student in Budapest building **security-oriented, reviewable projects** focused on authentication, auditability, workflow integrity, and Linux hardening.
 
 ## Current Direction
-
 - secure software design
 - authentication and access control
 - audit logging and traceability
+- workflow integrity and controlled state changes
 - Linux hardening and defensive configuration
-- validation and predictable system behavior
 - technical documentation for reviewers
-
-## Portfolio Overview
-
-My recent work focuses on building smaller but more deliberate projects that show how systems can be designed with security-aware decisions from the start.
-
-Rather than only building general web applications, I aim to demonstrate:
-
-- backend-enforced authorization
-- auditable workflows and visible system behavior
-- defensive validation and safer request handling
-- role separation and controlled state changes
-- practical Linux hardening and verification
 
 ## Featured Repositories
 
@@ -32,22 +19,19 @@ Security-focused auth and admin panel demo showing session-based auth, backend R
 Workflow-integrity payment demo built around ledger-based balances, role separation, admin review flow, and auditable request state transitions.
 
 ### [Linux Hardening Lab](https://github.com/cntzemir/linux-hardening-lab)
-Defensive Ubuntu Server hardening lab documenting baseline review, SSH hardening, firewall controls, verification steps, tradeoffs, and recovery notes.
+Defensive Ubuntu Server hardening lab documenting baseline review, SSH/UFW/fail2ban/AppArmor decisions, verification steps, tradeoffs, and recovery notes.
 
 ## What I Emphasize
-
 - security-aware design, not only implementation
 - reviewable systems and clear technical documentation
 - traceability for important actions and decisions
 - practical controls with verification and tradeoff awareness
 
 ## Supporting Projects
-
 I keep a few smaller projects to show progression in structure, UI flow, and JavaScript fundamentals, but the strongest direction of my portfolio is now secure software, defensive thinking, and system integrity.
 
 ## Contact
-
 - Portfolio: https://cntzemir.github.io/
 - GitHub: https://github.com/cntzemir
 - Email: canitezemirr@gmail.com
-- LinkedIn: https://www.linkedin.com/in/emircntz
+- LinkedIn: https://www.linkedin.com/in/emircntz/
