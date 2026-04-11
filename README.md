@@ -26,10 +26,10 @@ Rather than only building general web applications, I aim to demonstrate:
 ## Featured Repositories
 
 ### [Secure Auth & Admin Panel Demo](https://github.com/cntzemir/secure-auth-admin-demo)
-Security-focused authentication and admin panel project showing session-based auth, RBAC, CSRF protection, rate limiting, lockout logic, and audit visibility.
+Security-focused auth and admin panel demo showing session-based auth, backend RBAC, CSRF protection, rate limiting, lockout logic, and audit visibility.
 
 ### [ValerPay](https://github.com/cntzemir/ValerPay)
-Workflow-integrity demo built around ledger-based balances, admin review, role separation, and auditable request state transitions.
+Workflow-integrity payment demo built around ledger-based balances, role separation, admin review flow, and auditable request state transitions.
 
 ### [Linux Hardening Lab](https://github.com/cntzemir/linux-hardening-lab)
 Defensive Ubuntu Server hardening lab documenting baseline review, SSH hardening, firewall controls, verification steps, tradeoffs, and recovery notes.
